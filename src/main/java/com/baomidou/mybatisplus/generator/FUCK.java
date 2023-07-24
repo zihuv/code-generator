@@ -26,12 +26,9 @@ public class FUCK {
      */
     public static void run(Object obj, String path) {
         FUCKConfig fuckConfig = getFUCKConfigByPath(obj.getClass(), path);
-        if (fuckConfig == null) {
-            return;
-        } else {
+        if (fuckConfig != null) {
             generateCode(fuckConfig);
         }
-
     }
 
     public static void tips() {
