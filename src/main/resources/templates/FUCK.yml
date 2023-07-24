@@ -1,5 +1,5 @@
 globalConfig:
-  outputDir: "C:\\xxx\\src\\main\\java" # 输出路径
+  outputDir: "C:\\xxx\\src\\main\\java" # 输出路径(注意路径用"\\"或者"/"分隔开)
   author: "zihuv"
   open: false # 生成代码后是否打开文件夹
 
