@@ -61,7 +61,7 @@ public class FUCK {
                 copyFileFromClasspath(templatesPath, yamlFile.getAbsolutePath(), clazz);
                 System.out.println("======================================================================");
                 System.out.println("未检测到当前文件夹有yml文件，系统自动将为您生成！！！");
-                System.out.println("成功复制 FUCK.yml 文件！！！");
+                System.out.println("FUCK.yml 文件生成成功！！！");
                 System.out.println("修改yml配置文件后，再次运行FUCK.run()！！！");
                 System.out.println("======================================================================");
             } catch (IOException e) {
