@@ -40,6 +40,7 @@ public class FUCK {
         System.out.println("1.复制下列两行的代码");
         System.out.println("2.修改path为当前类的绝对路径");
         System.out.println("3.启动！！！");
+        System.out.println("（默认开启lombok和swagger，导入项目请提前添加依赖）");
         System.out.println("======================================================================");
         System.out.println("String path = \"C:\\\\Users\\\\10413\\\\Desktop\\\\demo-final" +
                 "\\\\src\\\\test\\\\java\\\\CodeTest\";");

@@ -1,14 +1,14 @@
 globalConfig:
-  outputDir: "C:\\Users\\10413\\Desktop\\demo-final\\src\\main\\java\\com\\baomidou"
+  outputDir: "C:\\xxx\\src\\main\\java" # 输出路径
   author: "zihuv"
-  open: false
+  open: false # 生成代码后是否打开文件夹
 
 dataSourceConfig:
-  url: "jdbc:mysql://47.120.9.134:3306/demo?useUnicode=true&useSSL=false&characterEncoding=utf8"
+  url: "jdbc:mysql://ip:3306/demo?useUnicode=true&useSSL=false&characterEncoding=utf8"
   username: "root"
   password: "123456"
 
 packageConfig:
-  parent: "com.baidu"
+  parent: "com.zihuv"
   moduleName: "demo"
   entity: "model.entity" # entity包名
