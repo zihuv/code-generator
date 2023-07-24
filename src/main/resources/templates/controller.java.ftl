@@ -1,6 +1,5 @@
 package ${package.Controller};
 
-
 import org.springframework.web.bind.annotation.RequestMapping;
 <#if restControllerStyle>
 import org.springframework.web.bind.annotation.RestController;

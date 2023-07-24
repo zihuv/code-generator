@@ -5,7 +5,7 @@ import ${superMapperClassPackage};
 import org.apache.ibatis.annotations.Mapper;
 
 /**
- * ${table.comment!} mapper
+ * ${table.comment!} Mapper
  *
  * @author ${author}
  * @since ${date}
